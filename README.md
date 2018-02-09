@@ -2,6 +2,7 @@
 # Language: R
 # Input: CSV (data points)
 # Output: TXT (point difference with a least squares fit)
+# Tested with: PluMA 1.0, R 3.2.5
 
 PluMA plugin that determines a linear trend among time-series input data,
 by running least-squares fitting on that dataset and determining the difference
