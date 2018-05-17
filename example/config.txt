@@ -1,0 +1,2 @@
+Prefix plugins/Detrend/example/
+Plugin Detrend inputfile sunglasses.csv outputfile sunglasses.detrend.txt
